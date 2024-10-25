@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.batata {
+ background-color: #000000cc;
+}
+
+nav {
+    background-color: #000000;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30px;
+}
+
+.nav-link:hover{
+    color: #187fc4;
+}
+.banner{ 
+    width: 50%; 
+    height: auto; 
+    overflow: hidden; 
+    position: relative; 
+    align-items: center;
+    text-align: center;
+}
+
+.logo{
+    width: 50px;
+}
+
+.btn {
+    margin: 5px;
+    background-color: #ffffff;
+    color: #000000;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.801);
+}
+
+.btn:hover {
+    background-color:#1f88ce;
+    color: #ffffff;
+}
+
+
+.card-body{
+    background-color: #000000cc;
+}
+
+.card {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.801);
+}
+
+hr{
+    background-color: #ffffff;
+    box-shadow: 5px 5px 10px rgb(179, 179, 179);
+    width: 80%;
+    margin: 20px auto;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+.card-text {
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+}
+
+.p{
+    background-color: #000000;
+}
+
+ul {
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+    list-style-type: square;
+    
+}
+
+li {
+    padding: 10px;
+    font-size: 25px;
+    list-style: armenian;
+}
+
+.conteiner span{
+    background-color: #1f88ce;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+}
+
+.conteiner span:hover {
+    background-color:  #000000cc;
+
+}
+
+.conteiner span:active {
+    background-color:  #000000e8;
+
+}
+
+.container {
+    text-align: center; 
+}    
+
+.gif{
+    width: 600px;
+    align-items: center;
+    
+}
+
+.gif-conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardCons {
+    background-color: #000000;
+    border: 1px solid #000000cc;
+    border-radius: 8px;
+    padding: 60px; 
+    margin: 20px; 
+    width: 90%;
+    box-shadow: 10px 10px 10px #000000;
+
+}
+
+.cardCons-title {
+    margin-top: 0; 
+    margin-bottom: 40px; 
+    text-align: center;
+    color: #1f88ce;
+    font-size: 60px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.cardCons-text {
+    margin: 0;
+    text-align: justify;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
